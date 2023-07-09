@@ -1,0 +1,6 @@
+{
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.diagnosticMode": true,
+    "cmake.configureOnOpen": true
+}
